@@ -1,5 +1,3 @@
 config.py
-test.csv
-test_tools.py
 __pycache__/
 *.pyc
